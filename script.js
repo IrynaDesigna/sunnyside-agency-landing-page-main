@@ -1,6 +1,5 @@
 'use strict';
 
-// if document.getElementbyId('')
 document.getElementById("mobile-nav").onclick = function() {myFunction()};
 
 function myFunction() {
