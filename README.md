@@ -3,7 +3,7 @@
 ### Links
 
 - [Solution URL: ](https://github.com/IrynaDesigna/sunnyside-agency-landing-page-main)
-- [Live Site URL: ](sunnyside-agency-landing-page-main)
+- [Live Site URL: ](https://irynadesigna.github.io/sunnyside-agency-landing-page-main/)
 
 ### Built with
 
