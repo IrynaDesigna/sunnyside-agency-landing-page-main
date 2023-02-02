@@ -1,9 +1,9 @@
-# Frontend Mentor - Sunnyside agency landing page
+# Sunnyside agency landing page
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Web-Designa/sunnyside-agency-landing-page-main)
-- Live Site URL: [Add live site URL here](https://web-designa.github.io/sunnyside-agency-landing-page-main/)
+- [Solution URL: ](https://github.com/IrynaDesigna/sunnyside-agency-landing-page-main)
+- [Live Site URL: ](sunnyside-agency-landing-page-main)
 
 ### Built with
 
